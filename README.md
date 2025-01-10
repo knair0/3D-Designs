@@ -1,4 +1,4 @@
-# Tinkercad Projects
+# 3D Designs
 
 
 <h2>Replacement Knob for Nektar Panorama P6</h2>
